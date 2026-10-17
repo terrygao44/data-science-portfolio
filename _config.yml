@@ -1,0 +1,5 @@
+# Site metadata for GitHub Pages (Jekyll).
+# Without this file GitHub Pages uses the repository name as the site title,
+# which would render as a second, unhelpful heading above the page.
+title: GAO TE — Data Science Portfolio
+description: Data science portfolio of GAO TE — reproducible analyses built from public data.
