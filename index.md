@@ -69,6 +69,19 @@ publicly released statistics containing no personal data. Analysis in Python wit
 pandas; figures drawn with matplotlib; compared on an index (2024 as a percentage
 of 2019) so that markets of very different size are on one scale.
 
+**Limitations.** Two points in time can describe a difference; they cannot
+describe a recovery. With snapshots for 2019 and 2024 and nothing in between,
+this analysis cannot tell whether arrivals climbed back gradually or arrived in
+one jump, and it treats 2019 as the level to return to — an assumption, not a
+finding. Japan is the clearest case: at 42.7% of 2019 it may be "not yet back" or
+"no longer coming", and two data points cannot separate those two stories.
+Second, overnight stays are used here as a proxy for higher spending, and this
+data does not support that step: what is plotted is arrivals, not visitor
+expenditure, so overnight arrivals being 23% below 2019 does not mean tourism
+revenue is 23% below. Third, the analysis is descriptive — it does not test why
+Japan and the Republic of Korea lag, and visa policy, airline capacity and
+exchange rates are outside what these tables can answer.
+
 **Project repository:** <https://github.com/terrygao44/data-science-project>
 
 **Project status:** **Completed** — October 2026.
